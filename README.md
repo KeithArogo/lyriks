@@ -66,7 +66,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git https://github.com/pandawaa/lyriks.git
+git https://github.com/KeithArogo/lyriks
 cd lyriks
 ```
 
